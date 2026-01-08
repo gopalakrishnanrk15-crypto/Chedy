@@ -1,1 +1,10 @@
 #my program 
+//code was code
+
+
+public static void main (String Args[])
+
+public void name ()
+{
+sysout.("name1");
+}
